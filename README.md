@@ -1,3 +1,3 @@
 # Dan's GitHub App Demo
 
-HELLO WORLD!
+HELLO WORLD! Welcome to my GitHub App demo!
