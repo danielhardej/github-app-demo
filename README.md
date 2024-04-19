@@ -1,1 +1,1 @@
-# github-app-demo
+# Dan's GitHub App Demo
